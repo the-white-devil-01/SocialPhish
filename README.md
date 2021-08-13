@@ -25,7 +25,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/whitedevil/AccountPhish.git
+$ git clone git://github.com/thewhitedevil/AccountPhish.git
 ```
 
 - Change to cloned directory and run `AccountPhish.sh` -
