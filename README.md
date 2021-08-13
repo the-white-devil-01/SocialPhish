@@ -50,6 +50,6 @@ $ docker run --rm -it whitedevil/AccountPhish
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `SocialPhish` for the first time.
+> All the dependencies will be installed automatically when you run `AccountPhish` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
